@@ -1,0 +1,12 @@
+# robots.txt — bhaskarsingha.info
+# Bhaskar Singha Portfolio — Graphic Designer & Digital Marketer, Siliguri
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://bhaskarsingha.info/sitemap.xml
+
+# Disallow server files (GitHub Pages doesn't have these, but good practice)
+Disallow: /.git/
+Disallow: /node_modules/
